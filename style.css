@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+    color:aliceblue;
+    font-family: "Roboto Mono", monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+  button{
+    background-color: black;
+    color: aqua;
+    font-family: "Roboto Mono", monospace;
+  }
+ 
